@@ -18,7 +18,7 @@ var _city_id_index = { };
  *  params:
  *    @cityname ：城市或者省名称，例如 ： '北京市' '安徽省'
  *  result:
- *    返回城市树，如果诚实
+ *    返回城市树，不存在则返回undefined
  */
 exports.getCityTree = function(cityname){
 	if(_citys_tree_list.length ===0) _init(source_data);
