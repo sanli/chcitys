@@ -1,0 +1,26 @@
+{
+  "name": "chcitys",
+  "version": "1.0.0",
+  "description": "china city info list base on recent published info\",",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanli/chcitys.git"
+  },
+  "keywords": [
+    "china",
+    "city",
+    "info"
+  ],
+  "author": "sanli<santal.li@gmail.com> (http://ltfc.net)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanli/chcitys/issues"
+  },
+  "homepage": "https://github.com/sanli/chcitys#readme",
+  "dependencies": {
+  }
+}
